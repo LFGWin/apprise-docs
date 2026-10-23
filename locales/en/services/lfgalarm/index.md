@@ -40,9 +40,9 @@ Valid syntax is as follows:
 
 ## Parameter Breakdown
 
-| Variable | Required | Description                                                                                                         |
-| -------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| token    | Yes      | The 32 characters at the end of your alarm's private link. Keep it secret; anyone with it can ring the alarm.       |
+| Variable | Required | Description                                                                                                   |
+| -------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| token    | Yes      | The 32 characters at the end of your alarm's private link. Keep it secret; anyone with it can ring the alarm. |
 
 <!-- TEMPLATE:SERVICE-PARAMS -->
 
